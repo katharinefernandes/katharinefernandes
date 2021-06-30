@@ -2,7 +2,7 @@
  <div>
   <p align = "center">
     <a href="https://github.com/katharinefernandes">
-        <img align="center" height="180em" alt="Katharine's Github Stats" src="https://github-readme-stats.vercel.app/api?username=katharinefernandes&show_icons=true&theme=dracula" />
+        <img align="center" height="160em" alt="Katharine's Github Stats" src="https://github-readme-stats.vercel.app/api?username=katharinefernandes&show_icons=true&theme=dracula" />
     </a>
     <a href="https://github.com/eu-katharinefernandes">
         <img align="center" height="160em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=katharinefernandes&layout=compact&langs_count=16&theme=dracula" />
