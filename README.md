@@ -1,18 +1,18 @@
 <!--<h1 align="center">Hi 👋, I'm Katharine Fernandes</h1>-->
 
-## Oiii! Eu sou a Rafaella Ballerini 
+## Oiii! Eu sou a Katharine Fernandes 
  <div>
   <a href="https://github.com/katharinefernandes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katharine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katharine&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katharinefernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katharinefernandes&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
-<div>
+<!--<div>
  <a href="https://github.com/katharinefernandes">
  <img align="center" height="180em" 
       src="https://github-readme-stats.vercel.app/api?username=katharinefernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katharinefernandes&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+</div> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
