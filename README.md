@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Katharine Fernandes  
+## Oie! Eu sou a Katharine Fernandes  
 
 
 <p align = "center">
