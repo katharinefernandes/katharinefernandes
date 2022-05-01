@@ -1,4 +1,4 @@
-## Oie! Eu sou a Katharine Fernandes, Bem vindo(a) ao meu repositório!  
+## Oie! Eu sou a Katharine Fernandes, bem vindo(a) ao meu repositório!  
 
 
 <p align = "center">
