@@ -1,44 +1,62 @@
-![](https://komarev.com/ghpvc/?username=katharinefernandes&color=F38CA8)
+<h1 align="center">Olá, eu sou a Katharine 👋</h1>
 
-<div align="center">
+<p align="center">
+  <b>Software Developer @ Mercado Livre</b><br>
+  Backend Java • Spring Boot • Microsserviços • Observabilidade
+</p>
 
-<div> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/katharine-fernandes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/FIAP-Sistemas%20de%20Informa%C3%A7%C3%A3o-ED145B?style=for-the-badge" alt="FIAP">
+  <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-Brasil-2D3277?style=for-the-badge" alt="São Paulo, Brasil">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F38CA8&random=false&width=435&lines=Hello%2C+my+name+is+Katharine+Fernandes!;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
+---
 
+## 💻 Sobre mim
 
-<div align="left">
+Desenvolvedora backend com foco em **Java e Spring Boot**. Hoje atuo no **Mercado Livre**, no time de Inbound – Reposição, construindo serviços que apoiam a operação dos centros de distribuição.
 
-<div> 
+Curso o 3º ano de **Sistemas de Informação na FIAP** e sou técnica em Informática pelo **IFSP**.
 
+## 🛠️ Tecnologias
 
-<blockquote>Sou estudante de Sistemas de Informação na FIAP e formada em Técnica em Informática pelo Instituto Federal de São Paulo. Apaixonada por tecnologia e comprometida com o aprendizado contínuo. Busco constantemente desenvolver habilidades interpessoais e aplicar meus conhecimentos em contextos diversos.</blockquote>
-<br/>
-<blockquote>I'm a Systems Information student at FIAP and hold a degree in Informatics from the Federal Institute of São Paulo. Passionate about technology and committed to continuous learning. I'm constantly striving to develop interpersonal skills and apply my knowledge in diverse contexts.</blockquote>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,react,js,python&theme=dark" alt="Tecnologias principais">
+</p>
 
-## 💌 Let's get connected!
+| Área | O que eu uso |
+|---|---|
+| **Backend** | Java, Spring Boot, APIs REST, microsserviços |
+| **Mensageria** | Filas, jobs e consumers |
+| **Dados** | MySQL, SQL, PL/SQL, bancos de séries temporais |
+| **Observabilidade** | Datadog, Grafana, gestão de alertas |
+| **Qualidade e entrega** | Testes de unidade e integração, Git/GitFlow, Docker, feature toggles |
+| **Automação** | n8n |
+| **Estudos e projetos** | React, JavaScript, Python, Kotlin, Swift, Flutter |
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katharine-fernandes)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katharinefv@gmail.com?subject=Olá!&body=)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/katfernandess/)
+## 🚀 Trajetória
 
-## 💻 My technologies and tools!
- 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge)
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTMLS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+| Período | Onde | O que fiz |
+|---|---|---|
+| dez/2024 – hoje | **Mercado Livre** | Software Developer, backend Java |
+| 2021 – 2024 | **Kiman Solutions** | De estagiária a Analista de Sistemas Júnior, em sistemas de previdência privada e seguro de vida (PL/SQL, Java e React), incluindo a migração de Oracle Forms para Java e React |
 
-## ✨ GitHub Stats
-<p align = "center">
-  <a href="https://github.com/katharinefernandes"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katharinefernandes&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katharinefernandes&layout=compact&langs_count=16&theme=rose"/>
+## 📂 Projetos em destaque
 
- ![Snake animation](https://github.com/katharinefernandes/katharinefernandes/blob/output/github-contribution-grid-snake.svg)
+| Projeto | O que mostra |
+|---|---|
+| [cp03-microsservices-docker](https://github.com/katharinefernandes/cp03-microsservices-docker) | Microsserviços com Docker |
+| [first-app-junit-tests](https://github.com/katharinefernandes/first-app-junit-tests) | Testes de unidade em Java com JUnit |
+| [2SIZ-codigos-alta-performance](https://github.com/katharinefernandes/2SIZ-codigos-alta-performance) | Códigos Java com foco em desempenho |
+| [entendendo-algoritmos](https://github.com/katharinefernandes/entendendo-algoritmos) | Algoritmos estudados e implementados em Java |
+
+## 🎥 Conteúdo e comunidade
+
+Crio vídeos sobre lógica de programação e algoritmos no YouTube, na série **"Kat Responde"**, e participo de eventos como TDC, WoMakersCode e meetups de tecnologia.
+
+---
+
+<p align="center">
+  Vamos conversar? 💬 <a href="https://www.linkedin.com/in/katharine-fernandes/">linkedin.com/in/katharine-fernandes</a>
 </p>
